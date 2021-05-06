@@ -5,7 +5,7 @@ Write a Python program that takes a directory as a required argument and a filen
 
 For example:
 
--./file1.txt		10 
+./file1.txt		10 
 
 ./file2.txt		25 
 
